@@ -18,7 +18,7 @@
 	
 	9. The system should send notifications whenever there is a new movie, as well as when a booking is made or canceled.
 	
-        10. Customers of our system should be able to pay with credit cards or cash.
+        10. Customers of our system should be able to pay with credit cards or cash or  other means like paytm etc.
 	
 	11. The system should ensure that no two customers can reserve the same seat.
 	
